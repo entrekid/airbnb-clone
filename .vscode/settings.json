@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/Users/entrekid/opt/anaconda3/bin/python",
+    "python.pythonPath": "/Users/entrekid/.local/share/virtualenvs/airbnb-clone-u7JRT2mN/bin/python",
     "python.linting.flake8Enabled": true,
     "python.linting.pylintEnabled": false,
     "python.linting.enabled": true,
